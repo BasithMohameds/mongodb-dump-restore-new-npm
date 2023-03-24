@@ -1,0 +1,19 @@
+{
+  "name": "basith-dump-tool",
+  "version": "1.0.0",
+  "description": "this npm is created for mongodb dump and restore without tool without db connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasithMohameds/mongodb-dump-restore-new-npm.git"
+  },
+  "author": "basith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasithMohameds/mongodb-dump-restore-new-npm/issues"
+  },
+  "homepage": "https://github.com/BasithMohameds/mongodb-dump-restore-new-npm#readme"
+}
